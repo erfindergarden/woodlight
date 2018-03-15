@@ -1,13 +1,10 @@
 # woodlight // Batman Light // creeper light
 
 
-Holzleuchte aus Birkensperrholz und Eschenfurnier. Inspiriert durch [VITA copenhagen](https://www.vitacopenhagen.com/# "VITA copenhagen").
+Holzleuchte aus Birkensperrholz und Eschenfurnier. Die Idee stammt nicht von mir. Gefunden habe ich das Modell bei [VITA copenhagen](https://www.vitacopenhagen.com/# "VITA copenhagen").
 
 Es gibt mittlerweile eine Batman version und eine Creeper Version von Andreas.
 
-Shortlink: https://git.io/vxqLZ
-
-Read this in other languages: [English](README.en.md)
 
 ![](batman.jpg)
 ![](creeper.jpg)
