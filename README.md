@@ -19,6 +19,7 @@ Read this in other languages: [English](README.en.md)
 <img src="2D/woodlight_Rippe_36_v_3.svg" width = "60%" /><img src="2D/woodlight_Ringe_36.svg" width = "15%" />
 
 
+<<<<<<< HEAD
 <img src="2D/woodlight_Blatt_gross.svg" width = "60%" /><img src="2D/woodlight_Blatt_klein.svg" width
  = "15%" />
  
@@ -63,6 +64,9 @@ Umgesetzt wurde die Leuchte im [erfindergarden](http://www.erfindergarden.de) in
 
 ## License
 This project is [Attribution-ShareAlike 2.5 Generic (CC BY-SA 2.5)](https://creativecommons.org/licenses/by-sa/2.5/). You can do anything what you want with it but please say that you got the original design from erfindergarden and als share it under the same license. 
+=======
+Der Prototyp war mit Papier 120 Gramm gefertigt. Sieht auch sehr schön aus. Die Einschnitte in den Rippen müssen hierfür aber geschmälert werden. Achtung bitte die Datei **woodlight_Rippe_36_v_1_Papier.svg** verwenden. Ansonsten fallen die Papierblätter aus den Einschnitten.
+>>>>>>> minirevollo/master
 
 For more information, see [license](license.md). 
 	
